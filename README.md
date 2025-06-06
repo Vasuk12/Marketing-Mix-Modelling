@@ -59,14 +59,14 @@ The dataset includes:
 
 ## Business Recommendations
 
-- 📢 **Scale up** ContentMarketing and Sponsorship efforts
-- 🛠️ **Audit & optimize** underperforming channels like Affiliates
-- 🔍 **Investigate NPS** further — inconclusive link may suggest confounding factors or data limitations
-- ⏳ Consider time-lagged modeling for long-term media effects
+-  **Scale up** ContentMarketing and Sponsorship efforts
+-  **Audit & optimize** underperforming channels like Affiliates
+-  **Investigate NPS** further — inconclusive link may suggest confounding factors or data limitations
+-  Consider time-lagged modeling for long-term media effects
 
 ---
 
-## Next Steps (Optional Enhancements)
+## Next Steps 
 
 - Add lag variables for time-series causal effects
 - Integrate A/B testing or simulated experiments
